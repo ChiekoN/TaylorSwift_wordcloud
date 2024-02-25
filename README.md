@@ -1,5 +1,5 @@
 # Taylor Swift wordcloud in Python
-![TopImage](images/TopImage.jpg)
+![TopImage](images/Midnights%20(3am%20Edition).jpg)
 
 I created wordclouds from Taylor's song lyrics.
 
