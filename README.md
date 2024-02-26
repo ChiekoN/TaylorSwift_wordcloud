@@ -7,7 +7,7 @@ I wanted to visualise the tendency and frequency of words that appear in her son
 
 I am a fan of Taylor, I love her music, and I got the idea that it would be interesting to create word clouds for each of her albums from the lyrics. Hopefully I can show some similarities and differences between them.
 
-Ultimately, I just wanted to create some awesome visualisations that represent her masterpieces!
+After all, I just wanted to create some awesome visualisations that represent her masterpieces!
 
 
 ## Challenges
